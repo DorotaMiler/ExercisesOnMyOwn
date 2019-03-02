@@ -1,0 +1,7 @@
+
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ß·Úƒûÿÿÿÿ8½Ğ¦í“-
+Gsquid:S1068"*Remove this unused "Engine" private field.(—ƒÉ{8¤ò£í“-
+osquid:S00116"QRename this field "Engine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ƒÉ{8å‚ùì“-
+xsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÖÇD8›É”í“-
+Isquid:S1068",Remove this unused "maxSpeed" private field.(»Ò!8ÖÏ£í“-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À–®»ÿÿÿÿÿ8´Œ§í“-
