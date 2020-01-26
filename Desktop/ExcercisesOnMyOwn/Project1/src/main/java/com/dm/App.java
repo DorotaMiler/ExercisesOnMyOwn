@@ -25,6 +25,5 @@ public class App {
 
         // 4. uruchom metodę printValues() dla wcześniej stworzonego obiektu typu Engine
         engine.printValues();
-
     }
 }
